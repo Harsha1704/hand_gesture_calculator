@@ -55,7 +55,7 @@ pip install opencv-python mediapipe numpy
 ## 💻 How to Run
 
 ```bash
-python gesture_calculator_fast_theme.py
+python hand_gesture_calculator.py
 ```
 
 Press `q` to exit the app.
@@ -67,7 +67,7 @@ Press `q` to exit the app.
 ```
 GestureCalculator/
 │
-├── gesture_calculator_fast_theme.py  # Main code
+├── hand_gesture_calculator.py        # Main code
 ├── requirements.txt                  # Dependencies
 ├── screenshot.png                    # Optional: demo image
 └── README.md                         # This file
